@@ -569,7 +569,7 @@ Super Street Fighter IV: 3D Edition,3DS,2011,Fighting,Capcom,0.55,0.44,0.14,0.09
 LEGO Indiana Jones 2: The Adventure Continues,DS,2009,Action,Activision,0.66,0.43,0.0,0.12,1.21
 The Magical Quest starring Mickey Mouse,SNES,1992,Platform,Capcom,0.66,0.17,0.35,0.03,1.21
 Need for Speed Underground,GC,2003,Racing,Electronic Arts,0.69,0.48,0.01,0.03,1.21
-Shrek / Shrek 2 2-in-1 Gameboy Advance Video,GBA,2007,Misc,Unknown,0.87,0.32,0.0,0.02,1.21
+Shrek / Shrek 2 2-in-1 Gameboy Advance Video,GBA,2007,Misc,,0.87,0.32,0.0,0.02,1.21
 Pikmin 2,GC,2004,Strategy,Nintendo,0.48,0.13,0.56,0.03,1.2
 Just Dance 2016,Wii,2015,Misc,Ubisoft,0.52,0.59,0.0,0.1,1.2
 Disney Sing It,Wii,2008,Misc,Disney Interactive Studios,0.77,0.31,0.0,0.12,1.2
@@ -753,7 +753,7 @@ Cars,Wii,2006,Racing,THQ,0.83,0.04,0.0,0.07,0.94
 Mario Tennis Open,3DS,2012,Sports,Nintendo,0.26,0.29,0.33,0.05,0.94
 The Legend of Zelda: Twilight Princess HD,WiiU,2016,Action,Nintendo,0.48,0.3,0.08,0.08,0.94
 Nickelodeon Fit,Wii,2010,Sports,Take-Two Interactive,0.78,0.09,0.0,0.06,0.93
-Bentley's Hackpack,GBA,2005,Misc,Unknown,0.67,0.25,0.0,0.02,0.93
+Bentley's Hackpack,GBA,2005,Misc,,0.67,0.25,0.0,0.02,0.93
 EA Sports Grand Slam Tennis,Wii,2009,Sports,Electronic Arts,0.29,0.52,0.02,0.11,0.93
 Sonic Riders: Zero Gravity,Wii,2008,Racing,Sega,0.5,0.32,0.02,0.1,0.93
 Build-A-Bear Workshop,DS,2007,Simulation,Game Factory,0.85,0.01,0.0,0.07,0.93
@@ -761,7 +761,7 @@ Crash City Mayhem,GBA,2004,Racing,THQ,0.67,0.25,0.0,0.02,0.93
 Mega Man 4,NES,1991,Platform,Capcom,0.51,0.09,0.32,0.01,0.93
 Castlevania II: Simon's Quest,NES,1987,Platform,Konami Digital Entertainment,0.45,0.06,0.42,0.0,0.93
 Toy Story 2: Buzz Lightyear to the Rescue!,N64,1999,Platform,Activision,0.71,0.2,0.0,0.01,0.93
-Teenage Mutant Ninja Turtles,GBA,2003,Action,Unknown,0.67,0.25,0.0,0.02,0.93
+Teenage Mutant Ninja Turtles,GBA,2003,Action,,0.67,0.25,0.0,0.02,0.93
 Cars,GC,2006,Racing,THQ,0.72,0.19,0.0,0.03,0.93
 Inazuma Eleven 3,DS,2010,Role-Playing,Level 5,0.0,0.0,0.93,0.0,0.93
 Pokken Tournament,WiiU,2016,Fighting,Namco Bandai Games,0.47,0.22,0.16,0.07,0.93
@@ -1039,9 +1039,9 @@ Rayman 3D,3DS,2011,Platform,Ubisoft,0.23,0.35,0.0,0.06,0.64
 Tom Clancy's Rainbow Six,N64,1999,Shooter,Red Storm Entertainment,0.48,0.15,0.0,0.01,0.64
 Castlevania,N64,1999,Platform,Konami Digital Entertainment,0.44,0.1,0.04,0.05,0.64
 Rayman 2: The Great Escape,N64,1999,Platform,Ubisoft,0.4,0.22,0.0,0.02,0.64
-Nicktoons Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.46,0.17,0.0,0.01,0.64
+Nicktoons Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.46,0.17,0.0,0.01,0.64
 The Princess and the Frog,DS,2009,Platform,Disney Interactive Studios,0.41,0.17,0.0,0.06,0.64
-SpongeBob SquarePants: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.46,0.17,0.0,0.01,0.64
+SpongeBob SquarePants: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.46,0.17,0.0,0.01,0.64
 Konami Collector's Series: Arcade Advanced,GBA,2002,Misc,Konami Digital Entertainment,0.46,0.17,0.0,0.01,0.64
 Cruis'n World,N64,1998,Racing,Nintendo,0.59,0.04,0.0,0.01,0.64
 Madden NFL 2001,N64,2000,Sports,Electronic Arts,0.6,0.03,0.0,0.01,0.64
@@ -1249,7 +1249,7 @@ Magician's Quest: Mysterious Times,DS,2008,Role-Playing,Konami Digital Entertain
 Tales of Symphonia: Dawn of the New World,Wii,2008,Role-Playing,Namco Bandai Games,0.22,0.05,0.24,0.03,0.54
 Jewel Master Egypt,DS,2009,Puzzle,Rondomedia,0.21,0.27,0.0,0.05,0.53
 SpongeBob SquarePants featuring Nicktoons: Globs of Doom,Wii,2008,Action,THQ,0.49,0.0,0.0,0.04,0.53
-SpongeBob SquarePants: Game Boy Advance Video Volume 2,GBA,2004,Misc,Unknown,0.38,0.14,0.0,0.01,0.53
+SpongeBob SquarePants: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.38,0.14,0.0,0.01,0.53
 Mystery Dungeon: Shiren the Wanderer,DS,2006,Role-Playing,Sega,0.18,0.0,0.33,0.02,0.53
 SimAnimals,DS,2009,Simulation,Electronic Arts,0.26,0.21,0.0,0.06,0.53
 LEGO Jurassic World,WiiU,2015,Action,Warner Bros. Interactive Entertainment,0.28,0.19,0.02,0.04,0.53
@@ -1529,7 +1529,7 @@ The Powerpuff Girls: Him and Seek,GBA,2002,Platform,BAM! Entertainment,0.31,0.11
 Mega Man Zero 2,GBA,2003,Platform,Capcom,0.18,0.07,0.17,0.01,0.43
 Wonder Project J: Kikai no Shonen Pino,SNES,1994,Simulation,Enix Corporation,0.0,0.0,0.43,0.0,0.43
 2010 FIFA World Cup South Africa,Wii,2010,Sports,Electronic Arts,0.23,0.15,0.01,0.04,0.43
-The Fairly Odd Parents: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.31,0.11,0.0,0.01,0.43
+The Fairly Odd Parents: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.31,0.11,0.0,0.01,0.43
 How to Train Your Dragon,Wii,2010,Action,Activision,0.24,0.15,0.0,0.04,0.43
 WipEout 64,N64,1998,Racing,Midway Games,0.28,0.14,0.0,0.01,0.43
 Mischief Makers,N64,1997,Platform,Nintendo,0.25,0.06,0.07,0.06,0.43
@@ -1574,7 +1574,7 @@ Army Men: Sarge's Heroes 2,N64,2000,Shooter,3DO,0.34,0.07,0.0,0.0,0.42
 James Bond 007: Everything or Nothing,GC,2004,Shooter,Electronic Arts,0.32,0.08,0.0,0.01,0.42
 Mega Man Anniversary Collection,GC,2004,Platform,Capcom,0.32,0.08,0.0,0.01,0.42
 Super Famista 4,SNES,1995,Sports,Namco Bandai Games,0.0,0.0,0.42,0.0,0.42
-The Fairly Odd Parents: Game Boy Advance Video Volume 2,GBA,2004,Misc,Unknown,0.3,0.11,0.0,0.01,0.42
+The Fairly Odd Parents: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.3,0.11,0.0,0.01,0.42
 Taiko no Tatsujin DS: Dororon! Youkai Daikessen!!,DS,2010,Misc,Namco Bandai Games,0.0,0.0,0.42,0.0,0.42
 Harry Potter and the Goblet of Fire,GC,2005,Action,Electronic Arts,0.32,0.08,0.0,0.01,0.42
 JumpStart: Escape from Adventure Island,Wii,2009,Adventure,Knowledge Adventure,0.39,0.0,0.0,0.03,0.42
@@ -1935,7 +1935,7 @@ Fortress,GBA,2001,Action,Majesco Entertainment,0.23,0.08,0.0,0.01,0.32
 Peppa Pig: Theme Park Fun,DS,2011,Misc,P2 Games,0.0,0.28,0.0,0.04,0.32
 My Horse & Me,Wii,2007,Sports,Atari,0.27,0.02,0.0,0.03,0.32
 Gold's Gym: Cardio Workout (Others sales),Wii,2008,Sports,Ubisoft,0.0,0.3,0.0,0.02,0.32
-Cartoon Network Collection: Game Boy Advance Video Platinum Edition,GBA,2005,Misc,Unknown,0.23,0.08,0.0,0.01,0.32
+Cartoon Network Collection: Game Boy Advance Video Platinum Edition,GBA,2005,Misc,,0.23,0.08,0.0,0.01,0.32
 SpongeBob SquarePants: Double Pack,GBA,2005,Platform,THQ,0.23,0.08,0.0,0.01,0.32
 Tetris 2 + Bombliss,NES,1991,Puzzle,BPS,0.0,0.0,0.32,0.0,0.32
 7 Wonders II,DS,2009,Puzzle,Rondomedia,0.14,0.15,0.0,0.03,0.32
@@ -2185,7 +2185,7 @@ How to Train Your Dragon 2,Wii,2014,Adventure,Little Orbit,0.05,0.2,0.0,0.02,0.2
 Boogie,DS,2007,Misc,Electronic Arts,0.25,0.0,0.0,0.02,0.27
 Dragon Ball Z: Budokai 2,GC,2004,Fighting,Atari,0.21,0.06,0.0,0.01,0.27
 Motocross Maniacs Advance,GBA,2002,Racing,Konami Digital Entertainment,0.2,0.07,0.0,0.0,0.27
-M&M's Blast!,GBA,2001,Puzzle,Unknown,0.2,0.07,0.0,0.0,0.27
+M&M's Blast!,GBA,2001,Puzzle,,0.2,0.07,0.0,0.0,0.27
 Zumba Fitness: World Party,Wii,2013,Misc,Majesco Entertainment,0.14,0.11,0.0,0.03,0.27
 Need for Speed: Most Wanted,DS,2005,Racing,Electronic Arts,0.24,0.01,0.0,0.02,0.27
 Littlest Pet Shop: Beach Friends,DS,2009,Simulation,Electronic Arts,0.25,0.0,0.0,0.02,0.27
@@ -2236,7 +2236,7 @@ Madden NFL 08,DS,2007,Sports,Electronic Arts,0.24,0.0,0.0,0.02,0.27
 Family Feud: 2010 Edition,DS,2009,Misc,Ubisoft,0.25,0.0,0.0,0.02,0.27
 Are You Smarter than a 5th Grader? Game Time,Wii,2009,Puzzle,THQ,0.25,0.0,0.0,0.02,0.27
 Wipeout 2,DS,2011,Misc,Activision,0.25,0.0,0.0,0.02,0.27
-Ultimate NES Remix,3DS,2014,Action,Unknown,0.15,0.09,0.0,0.02,0.27
+Ultimate NES Remix,3DS,2014,Action,,0.15,0.09,0.0,0.02,0.27
 Megamind: The Blue Defender,DS,2010,Adventure,THQ,0.19,0.05,0.0,0.02,0.27
 Super Nazo Puyo: Ruruu no Ruu,SNES,1995,Puzzle,Banpresto,0.0,0.0,0.27,0.0,0.27
 Super Collapse! 3,DS,2007,Puzzle,Mumbo Jumbo,0.25,0.0,0.0,0.02,0.27
@@ -2248,7 +2248,7 @@ Imagine: Fashion Party,Wii,2009,Simulation,Ubisoft,0.25,0.0,0.0,0.02,0.27
 Fish Tycoon,DS,2007,Simulation,Majesco Entertainment,0.24,0.0,0.0,0.02,0.27
 Scene It? Twilight,Wii,2009,Misc,Konami Digital Entertainment,0.16,0.08,0.0,0.02,0.27
 Don King Boxing,Wii,2009,Sports,Take-Two Interactive,0.14,0.1,0.0,0.03,0.27
-Sonic X: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.19,0.07,0.0,0.0,0.27
+Sonic X: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.19,0.07,0.0,0.0,0.27
 Reload: Target Down,Wii,2010,Shooter,Mastiff,0.25,0.0,0.0,0.02,0.26
 Dungeons & Dragons: Eye of the Beholder,GBA,2002,Role-Playing,Atari,0.19,0.07,0.0,0.0,0.26
 "Barbie: Jet, Set & Style!",Wii,2011,Misc,THQ,0.23,0.01,0.0,0.02,0.26
@@ -2303,7 +2303,7 @@ Classic NES Series: Bomberman,GBA,2004,Action,Nintendo,0.1,0.04,0.11,0.01,0.26
 Avatar: The Last Airbender - The Burning Earth,Wii,2007,Action,THQ,0.24,0.0,0.0,0.02,0.26
 Bratz Ponyz 2,DS,2008,Adventure,Game Factory,0.24,0.0,0.0,0.02,0.26
 Frogger's Journey: The Forgotten Relic,GBA,2003,Action,Konami Digital Entertainment,0.18,0.07,0.0,0.0,0.26
-Dora the Explorer: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.18,0.07,0.0,0.0,0.26
+Dora the Explorer: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.18,0.07,0.0,0.0,0.26
 Daisy Fuentes Pilates,Wii,2009,Sports,505 Games,0.17,0.06,0.0,0.02,0.26
 Petz: Crazy Monkeyz,Wii,2008,Simulation,Ubisoft,0.23,0.0,0.0,0.02,0.26
 Lemony Snicket's A Series of Unfortunate Events,GC,2004,Platform,Activision,0.2,0.05,0.0,0.01,0.26
@@ -2333,7 +2333,7 @@ Happy Feet,GC,2006,Action,Midway Games,0.2,0.05,0.0,0.01,0.25
 Scrabble,DS,2009,Misc,Ubisoft,0.21,0.02,0.0,0.03,0.25
 Spy Kids Challenger,GBA,2002,Platform,Disney Interactive Studios,0.18,0.07,0.0,0.0,0.25
 Tony Hawk's Proving Ground,Wii,2007,Sports,Activision,0.22,0.01,0.0,0.02,0.25
-Cartoon Network Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.18,0.07,0.0,0.0,0.25
+Cartoon Network Collection: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.18,0.07,0.0,0.0,0.25
 Animal Paradise,DS,2007,Simulation,Empire Interactive,0.09,0.14,0.0,0.02,0.25
 FIFA 14,3DS,2013,Sports,Electronic Arts,0.0,0.23,0.0,0.03,0.25
 Bomberman Tournament,GBA,2001,Puzzle,Activision,0.1,0.04,0.1,0.01,0.25
@@ -2407,7 +2407,7 @@ The Simpsons: Road Rage,GC,2001,Racing,Electronic Arts,0.19,0.05,0.0,0.01,0.24
 Megamind: Mega Team Unite,Wii,2010,Adventure,THQ,0.16,0.06,0.0,0.02,0.24
 PDC World Championship Darts 2008,Wii,2008,Sports,Oxygen Interactive,0.02,0.21,0.0,0.01,0.24
 Luminous Arc,DS,2007,Role-Playing,Rising Star Games,0.16,0.0,0.06,0.01,0.24
-All Grown Up!: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.17,0.06,0.0,0.0,0.24
+All Grown Up!: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.17,0.06,0.0,0.0,0.24
 The Lord of the Rings: Aragorn's Quest,Wii,2010,Action,Warner Bros. Interactive Entertainment,0.17,0.05,0.0,0.02,0.24
 Paws & Claws: Pet Resort,DS,2008,Simulation,THQ,0.22,0.0,0.0,0.02,0.24
 Ms. Pac-Man: Maze Madness / Pac-Man World,GBA,2005,Puzzle,Namco Bandai Games,0.17,0.06,0.0,0.0,0.24
@@ -2550,7 +2550,7 @@ Barbie: Groom and Glam Pups,Wii,2010,Action,THQ,0.19,0.02,0.0,0.01,0.22
 KORG DS-10 Synthesizer,DS,2008,Misc,AQ Interactive,0.2,0.01,0.0,0.02,0.22
 Tenchu: Shadow Assassins,Wii,2008,Action,Ubisoft,0.16,0.01,0.03,0.02,0.22
 CSI: Fatal Conspiracy,Wii,2010,Adventure,Ubisoft,0.12,0.08,0.0,0.02,0.22
-Nicktoons Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,Unknown,0.16,0.06,0.0,0.0,0.22
+Nicktoons Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.16,0.06,0.0,0.0,0.22
 Duel Masters: Kaijudo Showdown,GBA,2004,Misc,Atari,0.16,0.06,0.0,0.0,0.22
 Imagine: Boutique Owner,DS,2009,Simulation,Ubisoft,0.2,0.0,0.0,0.02,0.22
 The Lord of the Rings: The Third Age,GBA,2004,Role-Playing,Electronic Arts,0.16,0.06,0.0,0.0,0.22
@@ -2611,7 +2611,7 @@ Magician's Quest: Town of Magic,3DS,2012,Simulation,Konami Digital Entertainment
 Robotech: The Macross Saga,GBA,2002,Shooter,TDK Mediactive,0.15,0.06,0.0,0.0,0.21
 Tony Hawk's American Sk8land,DS,2005,Sports,Activision,0.19,0.01,0.0,0.02,0.21
 Bratz: Girlz Really Rock,Wii,2008,Action,THQ,0.19,0.0,0.0,0.02,0.21
-Now! That's What I Call Music: Dance & Sing,Wii,2011,Misc,Unknown,0.0,0.18,0.0,0.04,0.21
+Now! That's What I Call Music: Dance & Sing,Wii,2011,Misc,,0.0,0.18,0.0,0.04,0.21
 Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus,DS,2011,Strategy,Konami Digital Entertainment,0.1,0.03,0.07,0.01,0.21
 Naruto: Clash of Ninja (JP sales),GC,2003,Fighting,Tomy Corporation,0.0,0.0,0.21,0.01,0.21
 Dragon Ball Z Hyper Dimension,SNES,1995,Fighting,Namco Bandai Games,0.0,0.0,0.21,0.0,0.21
@@ -2646,7 +2646,7 @@ Wacky Races: Crash & Dash,DS,2008,Racing,Eidos Interactive,0.19,0.0,0.0,0.01,0.2
 I Spy: Castle,DS,2011,Puzzle,Scholastic Inc.,0.19,0.0,0.0,0.01,0.21
 Barbie Fashion Show: An Eye for Style,DS,2008,Misc,Activision,0.19,0.0,0.0,0.02,0.21
 Heisei Kyouiku linkai DS,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.21,0.0,0.21
-SpongeBob SquarePants: Game Boy Advance Video Volume 3,GBA,2004,Misc,Unknown,0.15,0.05,0.0,0.0,0.21
+SpongeBob SquarePants: Game Boy Advance Video Volume 3,GBA,2004,Misc,,0.15,0.05,0.0,0.0,0.21
 The Naked Brothers Band: The Video Game,Wii,2008,Misc,THQ,0.19,0.0,0.0,0.01,0.21
 Final Fight One,GBA,2001,Fighting,Ubisoft,0.09,0.03,0.08,0.0,0.21
 Rune Factory: Tides of Destiny,Wii,2011,Role-Playing,Marvelous Interactive,0.14,0.0,0.06,0.01,0.21
@@ -2833,7 +2833,7 @@ Momotarou Dentetsu World,DS,2010,Misc,Hudson Soft,0.0,0.0,0.19,0.0,0.19
 Doctor Who: Return to Earth,Wii,2010,Adventure,Asylum Entertainment,0.0,0.16,0.0,0.02,0.19
 The Munchables,Wii,2009,Action,Namco Bandai Games,0.17,0.0,0.0,0.01,0.19
 We Dance,Wii,2011,Misc,Nordic Games,0.0,0.17,0.0,0.02,0.19
-Chibi-Robo! Park Patrol,DS,2007,Adventure,Unknown,0.0,0.0,0.19,0.0,0.19
+Chibi-Robo! Park Patrol,DS,2007,Adventure,,0.0,0.0,0.19,0.0,0.19
 Mathews Bowhunting,Wii,2010,Sports,Zoo Games,0.18,0.0,0.0,0.01,0.19
 One Piece: Unlimited Adventure,Wii,2007,Adventure,Namco Bandai Games,0.07,0.0,0.11,0.01,0.19
 Remington Super Slam Hunting: North America,Wii,2010,Sports,Mastiff,0.18,0.0,0.0,0.01,0.19
@@ -2841,7 +2841,7 @@ Crash & Spyro Superpack,GBA,2005,Platform,Vivendi Games,0.13,0.05,0.0,0.0,0.19
 Face Training,DS,2007,Misc,Nintendo,0.0,0.0,0.19,0.0,0.19
 Disney's Meet the Robinsons,Wii,2007,Action,Disney Interactive Studios,0.17,0.0,0.0,0.01,0.19
 Kuma-Tomo,3DS,2013,Misc,Namco Bandai Games,0.0,0.0,0.19,0.0,0.19
-Thomas the Tank Engine & Friends,GBA,2004,Adventure,Unknown,0.13,0.05,0.0,0.0,0.19
+Thomas the Tank Engine & Friends,GBA,2004,Adventure,,0.13,0.05,0.0,0.0,0.19
 Penguin no Mondai X: Tenkuu no 7 Senshi,DS,2009,Action,Konami Digital Entertainment,0.0,0.0,0.19,0.0,0.19
 The Scorpion King: Sword of Osiris,GBA,2002,Action,Vivendi Games,0.13,0.05,0.0,0.0,0.19
 Reel Fishing Paradise 3D,3DS,2011,Sports,Marvelous Interactive,0.12,0.0,0.06,0.01,0.19
@@ -2973,13 +2973,13 @@ Backyard NFL Football '10,Wii,2009,Sports,Atari,0.16,0.0,0.0,0.01,0.17
 Professor Heinz Wolff's Gravity,Wii,2008,Puzzle,Deep Silver,0.04,0.12,0.0,0.02,0.17
 Transformers: Prime,3DS,2012,Action,Activision,0.13,0.03,0.0,0.01,0.17
 Batman Begins,GBA,2005,Action,Electronic Arts,0.12,0.05,0.0,0.0,0.17
-Dragon Ball GT: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.12,0.05,0.0,0.0,0.17
+Dragon Ball GT: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.05,0.0,0.0,0.17
 Luxor 3,Wii,2008,Puzzle,Mumbo Jumbo,0.16,0.0,0.0,0.01,0.17
 Bratz Kidz,Wii,2008,Misc,Game Factory,0.16,0.0,0.0,0.01,0.17
 World Driver Championship,N64,1999,Racing,Midway Games,0.14,0.03,0.0,0.0,0.17
 Bomberman 64: The Second Attack!,N64,1999,Adventure,Hudson Soft,0.05,0.01,0.11,0.0,0.17
 Turok 3: Shadow of Oblivion,N64,2000,Shooter,Acclaim Entertainment,0.12,0.05,0.0,0.0,0.17
-Codename: Kids Next Door: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.12,0.05,0.0,0.0,0.17
+Codename: Kids Next Door: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.05,0.0,0.0,0.17
 Zoo Hospital,Wii,2008,Simulation,Majesco Entertainment,0.14,0.01,0.0,0.01,0.17
 Pokémon Beach Blank-out Blastoise / Go West Young Meowth Game Boy Advance Video,GBA,2004,Misc,Nintendo,0.12,0.05,0.0,0.0,0.17
 Disney's Home on the Range,GBA,2004,Action,Disney Interactive Studios,0.12,0.04,0.0,0.0,0.17
@@ -2988,7 +2988,7 @@ Solitaire Overload Plus,DS,2010,Misc,Telegames,0.16,0.0,0.0,0.01,0.17
 Gyakuten Saiban 3,GBA,2004,Adventure,Capcom,0.0,0.0,0.16,0.0,0.17
 Tak: Mojo Mistake,DS,2008,Action,THQ,0.16,0.0,0.0,0.01,0.17
 Marble Saga: Kororinpa,Wii,2009,Puzzle,Konami Digital Entertainment,0.1,0.06,0.0,0.02,0.17
-Teenage Mutant Ninja Turtles: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.12,0.04,0.0,0.0,0.17
+Teenage Mutant Ninja Turtles: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.12,0.04,0.0,0.0,0.17
 Disney's Planes,Wii,2013,Simulation,Disney Interactive Studios,0.08,0.07,0.0,0.02,0.17
 Bomberman Land,Wii,2007,Misc,Rising Star Games,0.11,0.02,0.03,0.01,0.17
 Bomberman B-Daman,SNES,1996,Shooter,Hudson Soft,0.0,0.0,0.17,0.0,0.17
@@ -3041,7 +3041,7 @@ Curious George,GBA,2006,Action,Namco Bandai Games,0.12,0.04,0.0,0.0,0.16
 Monster Jam,Wii,2007,Racing,Activision,0.15,0.0,0.0,0.01,0.16
 Medieval Games,Wii,2009,Action,Vir2L Studios,0.14,0.01,0.0,0.01,0.16
 The Amazing Spider-Man (Console Version),Wii,2012,Action,Activision,0.11,0.04,0.0,0.01,0.16
-Kid Adventures: Sky Captain,Wii,2010,Action,Unknown,0.11,0.04,0.0,0.01,0.16
+Kid Adventures: Sky Captain,Wii,2010,Action,,0.11,0.04,0.0,0.01,0.16
 Doctor Lautrec and the Forgotten Knights,3DS,2011,Adventure,Konami Digital Entertainment,0.07,0.05,0.03,0.01,0.16
 Disney's American Dragon Jake Long: Attack of the Dark Dragon,DS,2006,Action,Disney Interactive Studios,0.15,0.0,0.0,0.01,0.16
 Godzilla Unleashed,Wii,2007,Fighting,Atari,0.15,0.0,0.0,0.01,0.16
@@ -3159,7 +3159,7 @@ Jewel Quest Solitaire,DS,2009,Puzzle,GSP,0.0,0.14,0.0,0.02,0.15
 The Adventures of Tintin: The Game,3DS,2011,Action,Ubisoft,0.05,0.09,0.0,0.02,0.15
 Sonny with a Chance,DS,2010,Action,Disney Interactive Studios,0.12,0.02,0.0,0.01,0.15
 Farm Frenzy: Animal Country,DS,2009,Simulation,City Interactive,0.13,0.01,0.0,0.01,0.15
-Cartoon Network Collection: Game Boy Advance Video Special Edition,GBA,2005,Misc,Unknown,0.11,0.04,0.0,0.0,0.15
+Cartoon Network Collection: Game Boy Advance Video Special Edition,GBA,2005,Misc,,0.11,0.04,0.0,0.0,0.15
 Scooby-Doo! Unmasked,GC,2005,Platform,THQ,0.12,0.03,0.0,0.0,0.15
 Samurai Warriors: Katana,Wii,2007,Action,Tecmo Koei,0.11,0.0,0.04,0.01,0.15
 Heroes of Mana,DS,2007,Strategy,Square Enix,0.08,0.01,0.05,0.01,0.15
@@ -3186,13 +3186,13 @@ Zoids: Battle Legends,GC,2003,Action,Tomy Corporation,0.12,0.03,0.0,0.0,0.15
 Killer7,GC,2005,Action,Capcom,0.12,0.03,0.0,0.0,0.15
 Hidden Mysteries: Salem Secrets - Witch Trials of 1692,DS,2010,Puzzle,Astragon,0.09,0.04,0.0,0.01,0.15
 Super Monkey Ball Adventure,GC,2006,Platform,Sega,0.12,0.03,0.0,0.0,0.15
-Kids Learn Math: A+ Edition,DS,2011,Misc,Unknown,0.14,0.0,0.0,0.01,0.15
+Kids Learn Math: A+ Edition,DS,2011,Misc,,0.14,0.0,0.0,0.01,0.15
 Build-A-Bear Workshop: Welcome to Hugsville,DS,2010,Misc,Game Factory,0.14,0.0,0.0,0.01,0.15
 World League Soccer,SNES,1991,Sports,Imagineer,0.0,0.0,0.15,0.0,0.15
 Spider-Man: Friend or Foe,Wii,2007,Action,Activision,0.13,0.01,0.0,0.01,0.15
 Ultimate Board Game Collection,Wii,2007,Misc,Xplosiv,0.14,0.0,0.0,0.01,0.15
 Castlevania: Lords of Shadow - Mirror of Fate,3DS,2013,Action,Konami Digital Entertainment,0.04,0.07,0.03,0.01,0.15
-Pokémon: Johto Photo Finish: Game Boy Advance Video,GBA,2004,Misc,Unknown,0.11,0.04,0.0,0.0,0.15
+Pokémon: Johto Photo Finish: Game Boy Advance Video,GBA,2004,Misc,,0.11,0.04,0.0,0.0,0.15
 Top Gun: Combat Zones,GC,2002,Simulation,Titus,0.12,0.03,0.0,0.0,0.15
 Return to PopoloCrois: A Story of Seasons Fairytale,3DS,2015,Simulation,Marvelous Entertainment,0.04,0.0,0.1,0.01,0.15
 Spongebob Squarepants / Fairly Odd Parents Double Pack,GBA,2005,Action,THQ,0.11,0.04,0.0,0.0,0.15
@@ -3214,7 +3214,7 @@ Scarface: The World is Yours,Wii,2007,Action,Vivendi Games,0.12,0.01,0.0,0.01,0.
 All-Star Baseball 2003,GBA,2002,Sports,Acclaim Entertainment,0.11,0.04,0.0,0.0,0.15
 DreamWorks Super Star Kartz,Wii,2011,Racing,Activision,0.1,0.04,0.0,0.01,0.15
 Curious George,GC,2006,Action,Namco Bandai Games,0.11,0.03,0.0,0.0,0.15
-Strawberry Shortcake: Game Boy Advance Video Volume 1,GBA,2004,Misc,Unknown,0.11,0.04,0.0,0.0,0.15
+Strawberry Shortcake: Game Boy Advance Video Volume 1,GBA,2004,Misc,,0.11,0.04,0.0,0.0,0.15
 Geist,GC,2005,Adventure,Nintendo,0.11,0.03,0.0,0.0,0.15
 Charm Girls Club: Pajama Party,Wii,2009,Misc,Electronic Arts,0.14,0.0,0.0,0.01,0.15
 Street Fighter Alpha 3,GBA,2002,Fighting,Capcom,0.11,0.04,0.0,0.0,0.15
@@ -3653,7 +3653,7 @@ Die Hard: Vendetta,GC,2002,Shooter,NDA Productions,0.09,0.02,0.0,0.0,0.12
 Hasbro Family Game Night Fun Pack,Wii,2011,Misc,Electronic Arts,0.11,0.0,0.0,0.01,0.12
 Army Men: Soldiers of Misfortune,DS,2008,Shooter,Zoo Games,0.11,0.0,0.0,0.01,0.12
 GT Advance 2: Rally Racing,GBA,2001,Racing,THQ,0.08,0.03,0.0,0.0,0.11
-Mystery P.I. - Portrait of a Thief,DS,2008,Adventure,Unknown,0.11,0.0,0.0,0.01,0.11
+Mystery P.I. - Portrait of a Thief,DS,2008,Adventure,,0.11,0.0,0.0,0.01,0.11
 A Witch's Tale,DS,2009,Role-Playing,Nippon Ichi Software,0.08,0.0,0.03,0.01,0.11
 Hollywood Squares,Wii,2010,Misc,Ubisoft,0.11,0.0,0.0,0.01,0.11
 Pac 'n Roll,DS,2005,Platform,Namco Bandai Games,0.09,0.0,0.02,0.01,0.11
@@ -3753,7 +3753,7 @@ Vigilante 8: 2nd Offense,N64,2000,Racing,Activision,0.09,0.02,0.0,0.0,0.11
 Fighting Force 64,N64,1999,Action,Crave Entertainment,0.09,0.02,0.0,0.0,0.11
 Rock Band: Metal Track Pack,Wii,2009,Misc,MTV Games,0.1,0.0,0.0,0.01,0.11
 Gabrielle's Ghostly Groove 3D,3DS,2011,Adventure,Funbox Media,0.08,0.02,0.0,0.01,0.11
-AKB48+Me,3DS,2012,Action,Unknown,0.0,0.0,0.11,0.0,0.11
+AKB48+Me,3DS,2012,Action,,0.0,0.0,0.11,0.0,0.11
 Touch Detective 2 1/2,DS,2007,Adventure,505 Games,0.09,0.0,0.01,0.01,0.11
 Famicom Mini: Famicom Tantei Club - Kieta Koukeisha Zenkouhen,GBA,2004,Adventure,Nintendo,0.0,0.0,0.11,0.0,0.11
 Tornado Outbreak,Wii,2009,Action,Konami Digital Entertainment,0.1,0.0,0.0,0.01,0.11
@@ -3810,7 +3810,7 @@ Big League Sports: Summer,DS,2009,Sports,Activision,0.1,0.0,0.0,0.01,0.11
 Tom Clancy's HAWX 2,Wii,2010,Action,Ubisoft,0.07,0.03,0.0,0.01,0.11
 Pro Yakyuu Team o Tsukurou! 2,DS,2009,Sports,Sega,0.0,0.0,0.11,0.0,0.11
 Barbie in The 12 Dancing Princesses,DS,2007,Adventure,Activision,0.09,0.01,0.0,0.01,0.11
-Disney Channel Collection Vol. 1,GBA,2004,Misc,Unknown,0.08,0.03,0.0,0.0,0.11
+Disney Channel Collection Vol. 1,GBA,2004,Misc,,0.08,0.03,0.0,0.0,0.11
 Tales of the World: Reve Unitia,3DS,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.11,0.0,0.11
 The Bachelor: The Videogame,Wii,2010,Misc,Warner Bros. Interactive Entertainment,0.1,0.0,0.0,0.01,0.11
 Space Invaders,GBA,2002,Shooter,Activision,0.08,0.03,0.0,0.0,0.11
@@ -3885,7 +3885,7 @@ Monkey Mischief! Party Time,Wii,2008,Misc,Activision,0.09,0.0,0.0,0.01,0.1
 Draglade,DS,2007,Fighting,505 Games,0.09,0.0,0.0,0.01,0.1
 DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-Kun,DS,2007,Misc,Shogakukan,0.0,0.0,0.1,0.0,0.1
 Water Sports,Wii,2009,Action,Avanquest,0.05,0.04,0.0,0.01,0.1
-Baten Kaitos Origins,GC,2006,Role-Playing,Unknown,0.06,0.02,0.02,0.0,0.1
+Baten Kaitos Origins,GC,2006,Role-Playing,,0.06,0.02,0.02,0.0,0.1
 Penguin no Mondai: The World,DS,2010,Adventure,Konami Digital Entertainment,0.0,0.0,0.1,0.0,0.1
 Flushed Away,DS,2006,Platform,D3Publisher,0.09,0.0,0.0,0.01,0.1
 NHL 2004,GC,2003,Sports,Electronic Arts,0.08,0.02,0.0,0.0,0.1
@@ -4103,7 +4103,7 @@ Momu-chan Diet Wii: Figurobics by Chon Dayon,Wii,2010,Misc,Hudson Soft,0.0,0.0,0
 Mad Dog McCree: Gunslinger Pack,Wii,2009,Shooter,Majesco Entertainment,0.08,0.0,0.0,0.01,0.09
 Game Hits!,DS,2010,Misc,Foreign Media Games,0.07,0.01,0.0,0.01,0.09
 Bakugan: Rise of the Resistance,DS,2011,Strategy,Activision,0.06,0.02,0.0,0.01,0.09
-Thomas & Friends: Hero of the Rails,DS,2010,Misc,Unknown,0.0,0.07,0.0,0.01,0.09
+Thomas & Friends: Hero of the Rails,DS,2010,Misc,,0.0,0.07,0.0,0.01,0.09
 The Mummy: Tomb of the Dragon Emperor,DS,2008,Action,Vivendi Games,0.08,0.0,0.0,0.01,0.09
 Battle Stadium D.O.N,GC,2006,Fighting,Namco Bandai Games,0.0,0.0,0.09,0.0,0.09
 Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!!,DS,2010,Action,Namco Bandai Games,0.0,0.0,0.09,0.0,0.09
@@ -4168,7 +4168,7 @@ Diva Girls: Divas on Ice,Wii,2009,Sports,505 Games,0.07,0.01,0.0,0.01,0.08
 Famicom Mini: Famicom Mukashi Banashi - Shin Oniga Shima Zenkouhen,GBA,2004,Adventure,Nintendo,0.0,0.0,0.08,0.0,0.08
 Don King Boxing,DS,2009,Sports,Take-Two Interactive,0.06,0.01,0.0,0.01,0.08
 Animal Planet: Emergency Vets,DS,2009,Simulation,Activision,0.08,0.0,0.0,0.01,0.08
-Martian Panic,Wii,2010,Adventure,Unknown,0.08,0.0,0.0,0.0,0.08
+Martian Panic,Wii,2010,Adventure,,0.08,0.0,0.0,0.0,0.08
 "Sesame Street: Ready, Set, Grover!",DS,2011,Misc,Warner Bros. Interactive Entertainment,0.08,0.0,0.0,0.01,0.08
 Marvel Nemesis: Rise of the Imperfects,DS,2005,Fighting,Electronic Arts,0.08,0.0,0.0,0.01,0.08
 Famicom Mini: Mario Bros.,GBA,2004,Platform,Nintendo,0.0,0.0,0.08,0.0,0.08
@@ -4284,7 +4284,7 @@ Shonen Jump's One Piece: Pirates Carnival,GC,2005,Misc,Namco Bandai Games,0.06,0
 Kobitodzukan: Kobito no Fushigi - Jikken Set,3DS,2013,Misc,Nippon Columbia,0.0,0.0,0.08,0.0,0.08
 Doraemon: Nobita and the Island of Miracles,3DS,2012,Action,FuRyu,0.0,0.0,0.08,0.0,0.08
 Puzzler Mind Gym 3D,3DS,2011,Puzzle,Ubisoft,0.07,0.0,0.0,0.0,0.08
-Cartoon Network Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,Unknown,0.06,0.02,0.0,0.0,0.08
+Cartoon Network Collection: Game Boy Advance Video Volume 2,GBA,2004,Misc,,0.06,0.02,0.0,0.0,0.08
 My Friends,DS,2009,Misc,Oxygen Interactive,0.07,0.0,0.0,0.01,0.08
 Superman: Shadow of Apokolips,GC,2003,Action,Atari,0.06,0.02,0.0,0.0,0.08
 The Croods: Prehistoric Party!,DS,2013,Misc,D3Publisher,0.03,0.04,0.0,0.01,0.08
@@ -4438,7 +4438,7 @@ Mega Man Battle Network 5: Double Team DS (US sales),DS,2005,Role-Playing,Ninten
 Kenyuu Densetsu Yaiba,SNES,1994,Action,Banpresto,0.0,0.0,0.07,0.0,0.07
 SNK Arcade Classics Vol. 1,Wii,2008,Misc,Ignition Entertainment,0.06,0.0,0.0,0.01,0.07
 Elements of Destruction,DS,2007,Strategy,THQ,0.07,0.0,0.0,0.01,0.07
-Speed,Wii,2010,Racing,Unknown,0.04,0.02,0.0,0.01,0.07
+Speed,Wii,2010,Racing,,0.04,0.02,0.0,0.01,0.07
 Eiken DS,DS,2007,Misc,Rocket Company,0.0,0.0,0.07,0.0,0.07
 Game Center CX: Arino no Chousenjou 2,DS,2009,Action,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
 Tom Clancy's Ghost Recon 2,GC,2005,Shooter,Ubisoft,0.06,0.01,0.0,0.0,0.07
@@ -4506,7 +4506,7 @@ Doraemon: Nobita to Himitsu Dougu Hakubutsukan,3DS,2013,Action,FuRyu,0.0,0.0,0.0
 Higurashi no Nakukoru ni Kizuna: Dai-Ichi-Kan - Tatari,DS,2008,Adventure,Alchemist,0.0,0.0,0.07,0.0,0.07
 AMF Bowling Pinbusters!,DS,2008,Sports,Vir2L Studios,0.06,0.0,0.0,0.0,0.07
 Operation: Vietnam,DS,2007,Shooter,Majesco Entertainment,0.06,0.0,0.0,0.0,0.07
-Alpha and Omega,DS,2010,Action,Unknown,0.06,0.0,0.0,0.0,0.07
+Alpha and Omega,DS,2010,Action,,0.06,0.0,0.0,0.0,0.07
 Disney's Winnie the Pooh's Rumbly Tumbly Adventure,GC,2005,Platform,Ubisoft,0.05,0.01,0.0,0.0,0.07
 Jake Power: Handyman,DS,2008,Adventure,Ubisoft,0.06,0.0,0.0,0.0,0.07
 My Dress-Up,DS,2008,Misc,Oxygen Interactive,0.06,0.01,0.0,0.01,0.07
@@ -4629,12 +4629,12 @@ Super Mahjong 2: Honkaku 4Jin Uchi,SNES,1993,Misc,Imax,0.0,0.0,0.06,0.0,0.06
 Cabela's Trophy Bucks,Wii,2008,Sports,Activision Value,0.06,0.0,0.0,0.0,0.06
 Mitsukete! Keroro Gunsou: Machigai Sagashi Daisakusen de Arimasu!,DS,2007,Action,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
 Smart Boy's Toys Club,DS,2008,Misc,505 Games,0.06,0.0,0.0,0.0,0.06
-Max & the Magic Marker,DS,2011,Platform,Unknown,0.0,0.06,0.0,0.0,0.06
+Max & the Magic Marker,DS,2011,Platform,,0.0,0.06,0.0,0.0,0.06
 Legend of the Dragon,Wii,2007,Fighting,Game Factory,0.06,0.0,0.0,0.0,0.06
 Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin,DS,2008,Adventure,Marvelous Interactive,0.0,0.0,0.06,0.0,0.06
 Sprung - A Game Where Everyone Scores,DS,2004,Adventure,Ubisoft,0.06,0.0,0.0,0.0,0.06
 Nicola Kanshuu: Model * Oshare Audition,DS,2010,Misc,Alchemist,0.0,0.0,0.06,0.0,0.06
-Kururin Paradise,GBA,2002,Puzzle,Unknown,0.0,0.0,0.06,0.0,0.06
+Kururin Paradise,GBA,2002,Puzzle,,0.0,0.0,0.06,0.0,0.06
 Fast Food Panic,Wii,2009,Simulation,Nobilis,0.06,0.0,0.0,0.0,0.06
 Dynasty Warriors Vs,3DS,2012,Action,Ackkstudios,0.0,0.0,0.06,0.0,0.06
 Another Code R: A Journey into Lost Memories,Wii,2009,Adventure,Nintendo,0.0,0.03,0.03,0.0,0.06
@@ -4738,7 +4738,7 @@ Showtime Championship Boxing,DS,2007,Fighting,Zoo Digital Publishing,0.06,0.0,0.
 Foster's Home for Imaginary Friends: Imagination Invaders,DS,2007,Adventure,Midway Games,0.06,0.0,0.0,0.0,0.06
 I Love Beauty: Hollywood Makeover,DS,2009,Misc,City Interactive,0.06,0.0,0.0,0.0,0.06
 Rock Blast,DS,2008,Puzzle,UFO Interactive,0.06,0.0,0.0,0.0,0.06
-Pheasants Forever Wingshooter,Wii,2010,Shooter,Unknown,0.03,0.02,0.0,0.0,0.06
+Pheasants Forever Wingshooter,Wii,2010,Shooter,,0.03,0.02,0.0,0.0,0.06
 Ivy the Kiwi?,Wii,2010,Puzzle,Rising Star Games,0.04,0.02,0.0,0.0,0.06
 Toriko: Gourmet Battle!,3DS,2013,Role-Playing,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
 Little League World Series Baseball 2008,DS,2008,Sports,Activision,0.06,0.0,0.0,0.0,0.06
@@ -4887,7 +4887,7 @@ Jissen Pachislot Hisshouhou! Hokuto no Ken DS SE,DS,2006,Misc,Sega,0.0,0.0,0.05,
 Lufia: The Ruins of Lore,GBA,2002,Role-Playing,Taito,0.04,0.01,0.0,0.0,0.05
 Major Minor's Majestic March,Wii,2009,Misc,Majesco Entertainment,0.05,0.0,0.0,0.0,0.05
 Shaman King: Soul Fight,GC,2003,Platform,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
-Samantha Swift and the Hidden Roses of Athena,DS,2010,Adventure,Unknown,0.04,0.01,0.0,0.0,0.05
+Samantha Swift and the Hidden Roses of Athena,DS,2010,Adventure,,0.04,0.01,0.0,0.0,0.05
 Medabots: Infinity,GC,2003,Role-Playing,Ubisoft,0.04,0.01,0.0,0.0,0.05
 Jirou Akagawa: Majotachi no Nemuri,SNES,1995,Adventure,Pack-In-Video,0.0,0.0,0.05,0.0,0.05
 Puyo Puyo 7,Wii,2009,Puzzle,Sega,0.0,0.0,0.05,0.0,0.05
@@ -4955,7 +4955,7 @@ Imagine: Artist,DS,2009,Misc,Ubisoft,0.05,0.0,0.0,0.0,0.05
 Pet Pals: New Leash on Life,DS,2010,Simulation,Destineer,0.05,0.0,0.0,0.0,0.05
 SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,DS,2005,Adventure,Activision,0.05,0.0,0.0,0.0,0.05
 The Idolm@ster: Dearly Stars,DS,2009,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
-Kids Learn Music A+ Edition,DS,2011,Misc,Unknown,0.05,0.0,0.0,0.0,0.05
+Kids Learn Music A+ Edition,DS,2011,Misc,,0.05,0.0,0.0,0.0,0.05
 Kart Racer,Wii,2009,Racing,Nordic Games,0.03,0.01,0.0,0.0,0.05
 Sam & Max: Beyond Time and Space,Wii,2010,Adventure,Atari,0.05,0.0,0.0,0.0,0.05
 Tabi no Yubisashi Kaiwachou DS: DS Series 2 Chuugoku,DS,2006,Misc,Nintendo,0.0,0.0,0.05,0.0,0.05
@@ -4975,7 +4975,7 @@ Super Robot Taisen Neo,Wii,2009,Strategy,Namco Bandai Games,0.0,0.0,0.05,0.0,0.0
 PAC-MAN and the Ghostly Adventures,WiiU,2013,Platform,Namco Bandai Games,0.04,0.01,0.0,0.0,0.05
 ESPN International Winter Sports 2002,GC,2002,Sports,Konami Digital Entertainment,0.04,0.01,0.0,0.0,0.05
 Blues Brothers 2000,N64,2000,Platform,Virgin Interactive,0.04,0.01,0.0,0.0,0.05
-Metal Max 2 Reloaded,DS,2011,Role-Playing,Unknown,0.0,0.0,0.05,0.0,0.05
+Metal Max 2 Reloaded,DS,2011,Role-Playing,,0.0,0.0,0.05,0.0,0.05
 All Star Tennis 99,N64,1999,Sports,Ubisoft,0.04,0.01,0.0,0.0,0.05
 Hercules: The Legendary Journeys,N64,2000,Role-Playing,Titus,0.04,0.01,0.0,0.0,0.05
 Dual Heroes,N64,1997,Fighting,Hudson Soft,0.04,0.01,0.0,0.0,0.05
@@ -4993,7 +4993,7 @@ Odoru Daisousasen The Game: Sensuikan ni Sennyuu Seyo!,DS,2010,Adventure,Namco B
 George of the Jungle and the Search for the Secret,DS,2008,Platform,Ignition Entertainment,0.05,0.0,0.0,0.0,0.05
 Turbo Turtle Adventure,GBA,2002,Puzzle,Majesco Entertainment,0.04,0.01,0.0,0.0,0.05
 Hisshou 777 Fighter: Pachi Slot Eiyu Densetsu,SNES,1994,Misc,Vap,0.0,0.0,0.05,0.0,0.05
-The Lost Treasures of Alexandria,DS,2011,Puzzle,Unknown,0.0,0.04,0.0,0.01,0.05
+The Lost Treasures of Alexandria,DS,2011,Puzzle,,0.0,0.04,0.0,0.01,0.05
 The Lost Vikings,GBA,2003,Puzzle,Activision,0.04,0.01,0.0,0.0,0.05
 Keiba Eight Special,SNES,1993,Sports,Misawa,0.0,0.0,0.05,0.0,0.05
 Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,GC,2005,Platform,Global Star,0.04,0.01,0.0,0.0,0.05
@@ -5172,7 +5172,7 @@ Chessmaster,GBA,2002,Misc,Ubisoft,0.03,0.01,0.0,0.0,0.04
 The Kore Gang,Wii,2010,Platform,Flashpoint Games,0.04,0.0,0.0,0.0,0.04
 Riding Stables: The Whitakers present Milton and Friends,3DS,2011,Sports,DTP Entertainment,0.0,0.04,0.0,0.0,0.04
 Naruto Shippuuden: Shinobi Retsuden III,DS,2009,Action,Takara Tomy,0.0,0.0,0.04,0.0,0.04
-Max & the Magic Marker,Wii,2011,Platform,Unknown,0.0,0.04,0.0,0.0,0.04
+Max & the Magic Marker,Wii,2011,Platform,,0.0,0.04,0.0,0.0,0.04
 Free Running,Wii,2009,Sports,Reef Entertainment,0.02,0.02,0.0,0.0,0.04
 Barnyard,Wii,2006,Action,THQ,0.04,0.0,0.0,0.0,0.04
 SPRay,Wii,2008,Action,Tecmo Koei,0.04,0.0,0.0,0.0,0.04
@@ -5199,7 +5199,7 @@ Myth Makers: Trixie in Toyland,Wii,2008,Platform,Popcorn Arcade,0.04,0.0,0.0,0.0
 NatGeo Challenge! Wild Life,Wii,2010,Misc,Black Bean Games,0.04,0.0,0.0,0.0,0.04
 Tabi no Yubisashi Kaiwachou DS: DS Series 5 Deutsch,DS,2006,Misc,Nintendo,0.0,0.0,0.04,0.0,0.04
 Fashion Week Jr. Designer,DS,2009,Simulation,505 Games,0.04,0.0,0.0,0.0,0.04
-Jewel Quest Mysteries 2: Trail of the Midnight Heart,DS,2011,Puzzle,Unknown,0.0,0.04,0.0,0.01,0.04
+Jewel Quest Mysteries 2: Trail of the Midnight Heart,DS,2011,Puzzle,,0.0,0.04,0.0,0.01,0.04
 Sherlock Holmes: Secret of The Silver Earring,Wii,2010,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.04
 Guilty Gear XX Accent Core,Wii,2007,Fighting,505 Games,0.03,0.0,0.0,0.0,0.04
 Digimon Rumble Arena 2,GC,2004,Fighting,Atari,0.03,0.01,0.0,0.0,0.04
@@ -5229,7 +5229,7 @@ Unchained Blades,3DS,2011,Role-Playing,FuRyu,0.0,0.0,0.04,0.0,0.04
 Harley-Davidson: Road Trip,Wii,2010,Racing,Destineer,0.04,0.0,0.0,0.0,0.04
 GoGo's Crazy Bones,DS,2012,Action,GameMill Entertainment,0.0,0.04,0.0,0.0,0.04
 Zen-Nippon GT Senshuken,SNES,1995,Racing,Banpresto,0.0,0.0,0.04,0.0,0.04
-North American Hunting Extravaganza 2,Wii,2010,Sports,Unknown,0.03,0.0,0.0,0.0,0.04
+North American Hunting Extravaganza 2,Wii,2010,Sports,,0.03,0.0,0.0,0.0,0.04
 City Builder,Wii,2010,Misc,Virtual Play Games,0.04,0.0,0.0,0.0,0.04
 PD Ultraman Battle Collection 64,N64,1999,Strategy,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
 Monaco Grand Prix,N64,1999,Racing,Ubisoft,0.03,0.01,0.0,0.0,0.04
@@ -5257,12 +5257,12 @@ Rollin' Rascals,DS,2009,Puzzle,Rising Star Games,0.04,0.0,0.0,0.0,0.04
 Haneru no Tobira DS: Tanshuku Tetsudou no Yoru,DS,2007,Misc,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
 Zac to Ombra: Maboroshi no Yuuenchi,DS,2010,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
 Daikaijuu Battle: Ultra Coliseum DX - Ultra Senshi Daishuuketsu,Wii,2010,Fighting,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
-Gummy Bears Mini Golf,Wii,2010,Sports,Unknown,0.04,0.0,0.0,0.0,0.04
+Gummy Bears Mini Golf,Wii,2010,Sports,,0.04,0.0,0.0,0.0,0.04
 Brothers In Arms DS,DS,2007,Shooter,Ubisoft,0.03,0.0,0.0,0.0,0.04
 99 no Namida,DS,2008,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
 Ookami to Koushinryou: Boku to Horo no Ichinen,DS,2008,Adventure,ASCII Media Works,0.0,0.0,0.04,0.0,0.04
 Stuntman,GBA,2003,Racing,Atari,0.03,0.01,0.0,0.0,0.04
-Time Travelers,3DS,2012,Adventure,Unknown,0.0,0.0,0.04,0.0,0.04
+Time Travelers,3DS,2012,Adventure,,0.0,0.0,0.04,0.0,0.04
 The Chase: Felix Meets Felicity,DS,2009,Action,Atari,0.04,0.0,0.0,0.0,0.04
 Draglade (JP sales),DS,2007,Fighting,505 Games,0.0,0.0,0.04,0.0,0.04
 Tiger Woods PGA Tour Golf,GBA,2002,Sports,Ubisoft,0.03,0.01,0.0,0.0,0.04
@@ -5325,7 +5325,7 @@ Onsei Kanjou Sokuteiki: Kokoro Scan,DS,2007,Misc,Sega,0.0,0.0,0.04,0.0,0.04
 San Goku Shi DS 3,DS,2010,Strategy,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
 Challenge Me: Word Puzzles,DS,2011,Puzzle,O-Games,0.03,0.0,0.0,0.0,0.04
 Jikkyou Powerful Major League 2009,Wii,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
-Jane's Hotel,DS,2010,Simulation,Unknown,0.03,0.0,0.0,0.0,0.04
+Jane's Hotel,DS,2010,Simulation,,0.03,0.0,0.0,0.0,0.04
 Stadium Games,GBA,2003,Sports,Ignition Entertainment,0.03,0.01,0.0,0.0,0.04
 Power Play Pool,DS,2006,Sports,System 3 Arcade Software,0.03,0.0,0.0,0.0,0.04
 Mahjong Taikai,DS,2004,Misc,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
@@ -5377,7 +5377,7 @@ SpongeBob: HeroPants,3DS,2015,Platform,Activision,0.03,0.0,0.0,0.0,0.03
 Kekkaishi: Kokubourou no Kage,Wii,2007,Action,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
 Mame Goma: Shiro to Kuro no Meikyuu,3DS,2012,Action,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
 "Crouching Tiger, Hidden Dragon",GBA,2003,Action,Ubisoft,0.02,0.01,0.0,0.0,0.03
-Clash of Elementalists,3DS,2013,Action,Unknown,0.0,0.03,0.0,0.0,0.03
+Clash of Elementalists,3DS,2013,Action,,0.0,0.03,0.0,0.0,0.03
 Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo,DS,2006,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
 SX Superstar,GC,2003,Racing,Acclaim Entertainment,0.03,0.01,0.0,0.0,0.03
 Zoo Vet: Endangered Animals,DS,2008,Simulation,505 Games,0.03,0.0,0.0,0.0,0.03
@@ -5386,7 +5386,7 @@ Driven,GBA,2001,Racing,BAM! Entertainment,0.02,0.01,0.0,0.0,0.03
 Red Faction II,GC,2003,Shooter,THQ,0.03,0.01,0.0,0.0,0.03
 Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou,DS,2011,Role-Playing,Hudson Soft,0.0,0.0,0.03,0.0,0.03
 Who Wants to be a Millionaire: 1st Edition,Wii,2007,Misc,Ubisoft,0.0,0.03,0.0,0.0,0.03
-Junior Island Adventure,DS,2011,Puzzle,Unknown,0.03,0.0,0.0,0.0,0.03
+Junior Island Adventure,DS,2011,Puzzle,,0.03,0.0,0.0,0.0,0.03
 Jikkyou Powerful Pro Yakyuu Wii Ketteiban,Wii,2007,Sports,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
 Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! Oyashiki-Hen,DS,2008,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
 Romance of the Three Kingdoms (3DS),3DS,2013,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
@@ -5415,7 +5415,7 @@ Maximum Racing: GP Classic Racing,Wii,2010,Racing,Nordic Games,0.03,0.0,0.0,0.0,
 CT Special Forces,GBA,2002,Action,LSP Games,0.02,0.01,0.0,0.0,0.03
 FIFA World Cup: Germany 2006,GBA,2006,Sports,Electronic Arts,0.02,0.01,0.0,0.0,0.03
 Jewel Master: Cradle of Rome,Wii,2008,Puzzle,Rondomedia,0.03,0.0,0.0,0.0,0.03
-Beastly,Wii,2011,Misc,Unknown,0.03,0.0,0.0,0.0,0.03
+Beastly,Wii,2011,Misc,,0.03,0.0,0.0,0.0,0.03
 Earthworm Jim 2,GBA,2002,Platform,Vivendi Games,0.02,0.01,0.0,0.0,0.03
 Garfield: A Tale of Two Kitties,DS,2006,Platform,Game Factory,0.03,0.0,0.0,0.0,0.03
 Tamagotchi no Doki Doki Dream Omisecchi,3DS,2013,Simulation,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
@@ -5435,7 +5435,7 @@ Disney's Hide & Sneak,GC,2003,Action,Capcom,0.03,0.01,0.0,0.0,0.03
 Arthur and the Invisibles,DS,2007,Adventure,Atari,0.03,0.0,0.0,0.0,0.03
 Flipper Critters,DS,2007,Simulation,Conspiracy Entertainment,0.03,0.0,0.0,0.0,0.03
 Medarot 9: Kabuto Ver. / Kuwagata Ver.,3DS,2015,Role-Playing,Rocket Company,0.0,0.0,0.03,0.0,0.03
-Foto Showdown,DS,2010,Role-Playing,Unknown,0.03,0.0,0.0,0.0,0.03
+Foto Showdown,DS,2010,Role-Playing,,0.03,0.0,0.0,0.0,0.03
 Custom Beat Battle: Draglade 2,DS,2008,Fighting,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
 Gotouchi Kenkei DS,DS,2006,Misc,Spike,0.0,0.0,0.03,0.0,0.03
 Elf Bowling 1 & 2,GBA,2005,Sports,Ignition Entertainment,0.02,0.01,0.0,0.0,0.03
@@ -5446,7 +5446,7 @@ Sonic Boom: Fire & Ice,3DS,2016,Platform,Sega,0.03,0.0,0.0,0.0,0.03
 The Flintstones: Big Trouble in Bedrock,GBA,2001,Platform,Swing! Entertainment,0.02,0.01,0.0,0.0,0.03
 Captain Morgane and the Golden Turtle,DS,2012,Adventure,Reef Entertainment,0.0,0.03,0.0,0.0,0.03
 Sekai no Hate Made Itte Q! Chinjuu Hunter Mono no Daibouken,DS,2010,Misc,Kamui,0.0,0.0,0.03,0.0,0.03
-Silverlicious,DS,2012,Action,Unknown,0.03,0.0,0.0,0.0,0.03
+Silverlicious,DS,2012,Action,,0.03,0.0,0.0,0.0,0.03
 Toriko: Ultimate Survival,3DS,2013,Action,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
 Vegas Casino,DS,2007,Misc,Neko Entertainment,0.03,0.0,0.0,0.0,0.03
 Monster High: New Ghoul in School,Wii,2015,Action,Little Orbit,0.0,0.03,0.0,0.0,0.03
@@ -5460,7 +5460,7 @@ My Pet Shop (JP sales),DS,2008,Simulation,Square Enix,0.0,0.0,0.03,0.0,0.03
 Konami Classics Series: Arcade Hits,DS,2007,Misc,Konami Digital Entertainment,0.01,0.0,0.02,0.0,0.03
 Dodge Racing: Charger vs Challenger,DS,2009,Racing,Zushi Games,0.03,0.0,0.0,0.0,0.03
 Gokujou!! Mecha Mote Iinchou: MM My Best Friend!,DS,2010,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
-LEGO Legends of Chima: Laval's Journey,DS,2013,Adventure,Unknown,0.0,0.03,0.0,0.0,0.03
+LEGO Legends of Chima: Laval's Journey,DS,2013,Adventure,,0.0,0.03,0.0,0.0,0.03
 Montessori Music,DS,2008,Misc,Oxygen Interactive,0.01,0.02,0.0,0.0,0.03
 Totally Spies!,GBA,2005,Platform,Atari,0.02,0.01,0.0,0.0,0.03
 Nishijin Pachinko Monogatari 2,SNES,1996,Misc,KSS,0.0,0.0,0.03,0.0,0.03
@@ -5539,7 +5539,7 @@ Hissatsu Pachinko Collection 3,SNES,1995,Misc,Sunsoft,0.0,0.0,0.03,0.0,0.03
 Kung Fu Panda: Legendary Warriors,DS,2008,Action,Activision,0.02,0.0,0.0,0.0,0.03
 Secret Files 2: Puritas Cordis,Wii,2009,Adventure,Deep Silver,0.0,0.03,0.0,0.0,0.03
 Nanashi no Game Me,DS,2009,Action,Square Enix,0.0,0.0,0.03,0.0,0.03
-Heroes of Hellas 2: Olympia,DS,2012,Puzzle,Unknown,0.0,0.03,0.0,0.0,0.03
+Heroes of Hellas 2: Olympia,DS,2012,Puzzle,,0.0,0.03,0.0,0.0,0.03
 Young Justice: Legacy,3DS,2013,Action,Namco Bandai Games,0.03,0.0,0.0,0.0,0.03
 HappinessCharge PreCure! Kawarun Collection,3DS,2014,Misc,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
 Dream Pinball 3D,DS,2008,Misc,SouthPeak Games,0.03,0.0,0.0,0.0,0.03
@@ -5607,7 +5607,7 @@ Nekketsu Kouha Kunio-Kun SP: Rantou Kyousoukyoku,3DS,2013,Fighting,Arc System Wo
 Buffy the Vampire Slayer: Chaos Bleeds,GC,2003,Action,Vivendi Games,0.02,0.01,0.0,0.0,0.03
 My Frogger: Toy Trials,DS,2006,Action,Konami Digital Entertainment,0.02,0.0,0.0,0.0,0.03
 Jet Grind Radio,GBA,2003,Action,Sega,0.02,0.01,0.0,0.0,0.03
-Farm Frenzy 3,DS,2011,Strategy,Unknown,0.0,0.02,0.0,0.0,0.03
+Farm Frenzy 3,DS,2011,Strategy,,0.0,0.02,0.0,0.0,0.03
 Strike Witches: Aoi no Dengekisen - Shin Taichou Funtousuru!,DS,2009,Action,Russel,0.0,0.0,0.03,0.0,0.03
 3DS Classic Collection,3DS,2016,Misc,Sega,0.02,0.0,0.0,0.0,0.03
 Baldur's Gate: Dark Alliance,GBA,2004,Role-Playing,"Destination Software, Inc",0.02,0.01,0.0,0.0,0.03
@@ -5635,7 +5635,7 @@ Pop Cutie! Street Fashion Simulation (JP sales),DS,2008,Simulation,Tecmo Koei,0.
 Kawasaki Snowmobiles,Wii,2008,Racing,Metro 3D,0.02,0.0,0.0,0.0,0.03
 Bae Yong-joon to Manabu Kankokugo DS,DS,2009,Misc,D3Publisher,0.0,0.0,0.03,0.0,0.03
 Imagine: Sweet 16,DS,2010,Simulation,Ubisoft,0.02,0.0,0.0,0.0,0.03
-Bookworm,GBA,2004,Puzzle,Unknown,0.02,0.01,0.0,0.0,0.03
+Bookworm,GBA,2004,Puzzle,,0.02,0.01,0.0,0.0,0.03
 Terraria,WiiU,2016,Action,505 Games,0.0,0.02,0.0,0.0,0.03
 My DoItAll,DS,2009,Misc,Tomy Corporation,0.02,0.0,0.0,0.0,0.03
 Monster Mayhem: Build and Battle,Wii,2009,Simulation,Zushi Games,0.02,0.0,0.0,0.0,0.03
@@ -5663,7 +5663,7 @@ DEATH NOTE: L o Tsugu Mono,DS,2007,Adventure,Konami Digital Entertainment,0.0,0.
 ZooCube,GC,2002,Puzzle,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02
 Spy Hunter / Super Sprint,GBA,2005,Racing,Zoo Digital Publishing,0.02,0.01,0.0,0.0,0.02
 Mind Your Language: Learn English! / French! / German! / Spanish! /Japanese!,DS,2009,Misc,PlayV,0.0,0.02,0.0,0.0,0.02
-Vampire Mansion: Linda Hyde,DS,2011,Adventure,Unknown,0.0,0.02,0.0,0.0,0.02
+Vampire Mansion: Linda Hyde,DS,2011,Adventure,,0.0,0.02,0.0,0.0,0.02
 Yes! Precure 5 Go Go Zenin Shu Go! Dream Festival,DS,2008,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
 Serious Sam Advance,GBA,2004,Shooter,Global Star,0.02,0.01,0.0,0.0,0.02
 Let's Play Garden,Wii,2010,Simulation,Deep Silver,0.02,0.0,0.0,0.0,0.02
@@ -5693,11 +5693,11 @@ Inkheart,DS,2009,Adventure,DreamCatcher Interactive,0.02,0.0,0.0,0.0,0.02
 Totally Spies! 2: Undercover,DS,2006,Action,Atari,0.01,0.01,0.0,0.0,0.02
 Natalie Brooks: Mystery at Hillcrest High,DS,2012,Action,Licensed 4U,0.0,0.02,0.0,0.0,0.02
 NANA: Live Staff Daiboshuu! Shoshinsha Kangei,DS,2007,Action,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02
-Xia-Xia,DS,2012,Platform,Unknown,0.0,0.02,0.0,0.0,0.02
+Xia-Xia,DS,2012,Platform,,0.0,0.02,0.0,0.0,0.02
 Cocoto Magic Circus,Wii,2008,Shooter,Neko Entertainment,0.02,0.0,0.0,0.0,0.02
 DemiKids: Dark Version,GBA,2002,Role-Playing,Atlus,0.02,0.01,0.0,0.0,0.02
 Mage Knight: Destiny's Soldier,DS,2006,Strategy,Namco Bandai Games,0.02,0.0,0.0,0.0,0.02
-Blender Bros.,GBA,2002,Platform,Unknown,0.02,0.01,0.0,0.0,0.02
+Blender Bros.,GBA,2002,Platform,,0.02,0.01,0.0,0.0,0.02
 Suzumiya Haruhi no Heiretsu,Wii,2009,Adventure,Sega,0.0,0.0,0.02,0.0,0.02
 DemiKids: Light Version,GBA,2002,Role-Playing,Atlus,0.02,0.01,0.0,0.0,0.02
 Pe-Jongju to Manabu Kankokugo DS: Test-Hen,DS,2010,Misc,D3Publisher,0.0,0.0,0.02,0.0,0.02
@@ -5751,7 +5751,7 @@ Jelly Belly: Ballistic Beans,Wii,2009,Puzzle,Zoo Digital Publishing,0.02,0.0,0.0
 Dragon's Lair,DS,2010,Platform,Destineer,0.02,0.0,0.0,0.0,0.02
 Sniper Elite V2,WiiU,2013,Shooter,505 Games,0.0,0.02,0.0,0.0,0.02
 XGRA: Extreme G Racing Association,GC,2003,Racing,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02
-Thomas & Friends: Hero of the Rails,Wii,2010,Misc,Unknown,0.0,0.02,0.0,0.0,0.02
+Thomas & Friends: Hero of the Rails,Wii,2010,Misc,,0.0,0.02,0.0,0.0,0.02
 World Championship Poker featuring Howard Lederer: All In,Wii,2006,Misc,505 Games,0.02,0.0,0.0,0.0,0.02
 Kill.Switch,GBA,2004,Shooter,Zoo Digital Publishing,0.02,0.01,0.0,0.0,0.02
 Jinsei Game Wii,Wii,2007,Misc,Takara Tomy,0.0,0.0,0.02,0.0,0.02
@@ -5769,16 +5769,16 @@ Negima!? Chou Mahora Taisen Chuu: Checkiin Zenin Shuugou! Yappari Onsen Kichaima
 Hot 'n' Cold,DS,2009,Action,Majesco Entertainment,0.02,0.0,0.0,0.0,0.02
 Wakeboarding Unleashed Featuring Shaun Murray,GBA,2003,Sports,Aspyr,0.01,0.01,0.0,0.0,0.02
 Livly Garden,DS,2010,Simulation,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
-Nicktoons Collection: Game Boy Advance Video Volume 3,GBA,2005,Misc,Unknown,0.01,0.01,0.0,0.0,0.02
+Nicktoons Collection: Game Boy Advance Video Volume 3,GBA,2005,Misc,,0.01,0.01,0.0,0.0,0.02
 Commando: Steel Disaster,DS,2008,Shooter,Lexicon Entertainment,0.02,0.0,0.0,0.0,0.02
 Katekyoo Hitman Reborn! Dream Hyper Battle! Wii,Wii,2008,Fighting,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
 Chuck E. Cheese's Super Collection,Wii,2011,Action,UFO Interactive,0.02,0.0,0.0,0.0,0.02
 Hakuouki: Yuugi Roku DS,DS,2011,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
-Mystery Tales 2: The Spirit Mask,DS,2011,Puzzle,Unknown,0.0,0.02,0.0,0.0,0.02
+Mystery Tales 2: The Spirit Mask,DS,2011,Puzzle,,0.0,0.02,0.0,0.0,0.02
 Kung Fu Panda: Showdown of Legendary Legends,3DS,2015,Action,Little Orbit,0.0,0.02,0.0,0.0,0.02
 Shonen Jump's Shaman King: Master of Spirits 2,GBA,2005,Role-Playing,Konami Digital Entertainment,0.01,0.01,0.0,0.0,0.02
 Casper's Scare School: Spooky Sports Day,Wii,2009,Sports,Blast! Entertainment Ltd,0.02,0.0,0.0,0.0,0.02
-Disney Sports Football,GBA,2002,Sports,Unknown,0.01,0.01,0.0,0.0,0.02
+Disney Sports Football,GBA,2002,Sports,,0.01,0.01,0.0,0.0,0.02
 Cabela's Big Game Hunter: Pro Hunts,WiiU,2014,Shooter,Activision,0.02,0.0,0.0,0.0,0.02
 Chicken Hunter,DS,2007,Shooter,Phoenix Games,0.02,0.0,0.0,0.0,0.02
 Daikaijuu Battle: Ultra Coliseum,Wii,2008,Fighting,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
@@ -5837,7 +5837,7 @@ The Mummy,GBA,2002,Action,Ubisoft,0.01,0.0,0.0,0.0,0.02
 Poyo Poyo Kansatsu Nikki,3DS,2012,Action,IE Institute,0.0,0.0,0.02,0.0,0.02
 Jinsei Game DS,DS,2006,Misc,Atlus,0.0,0.0,0.02,0.0,0.02
 Reversal Challenge,DS,2009,Misc,Tommo,0.02,0.0,0.0,0.0,0.02
-Wild West Shootout,Wii,2010,Shooter,Unknown,0.01,0.01,0.0,0.0,0.02
+Wild West Shootout,Wii,2010,Shooter,,0.01,0.01,0.0,0.0,0.02
 Gon: BakuBakuBakuBaku Adventure,3DS,2012,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
 Style Book: Junior City,DS,2006,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
 Garfield's Nightmare,DS,2007,Platform,Game Factory,0.01,0.0,0.0,0.0,0.02
@@ -5901,7 +5901,7 @@ Super Speed Machines,DS,2009,Racing,Midas Interactive Entertainment,0.02,0.0,0.0
 DJ Star,DS,2009,Misc,Deep Silver,0.01,0.0,0.0,0.0,0.02
 Cookie & Cream,DS,2007,Platform,505 Games,0.01,0.0,0.0,0.0,0.02
 Otometeki Koi Kakumei * Love Revo!! DS,DS,2008,Adventure,GungHo,0.0,0.0,0.02,0.0,0.02
-Clue / Mouse Trap / Perfection / Aggravation,DS,2006,Misc,Unknown,0.02,0.0,0.0,0.0,0.02
+Clue / Mouse Trap / Perfection / Aggravation,DS,2006,Misc,,0.02,0.0,0.0,0.0,0.02
 My Ballet Studio,DS,2009,Simulation,505 Games,0.01,0.0,0.0,0.0,0.02
 Postman Pat: Special Delivery Service,DS,2009,Misc,GSP,0.0,0.01,0.0,0.0,0.02
 Summer Challenge: Athletics Tournament,Wii,2011,Sports,PQube,0.0,0.01,0.0,0.0,0.02
@@ -5987,7 +5987,7 @@ Captain Morgane and the Golden Turtle,Wii,2012,Adventure,Reef Entertainment,0.0,
 One Piece: Daikaizoku Coliseum,3DS,2016,Fighting,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
 Smart Kid's Mega Game Mix,DS,2009,Misc,UFO Interactive,0.01,0.0,0.0,0.0,0.01
 Diary Girl,DS,2008,Misc,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.01
-Red Stone DS: Akaki Ishi ni Michibikareshi Monotachi,DS,2011,Role-Playing,Unknown,0.0,0.0,0.01,0.0,0.01
+Red Stone DS: Akaki Ishi ni Michibikareshi Monotachi,DS,2011,Role-Playing,,0.0,0.0,0.01,0.0,0.01
 Kimi no Yuusha,DS,2008,Role-Playing,SNK Playmore,0.0,0.0,0.01,0.0,0.01
 Cosmetic Paradise: Make no Kiseki,DS,2008,Misc,Global A Entertainment,0.0,0.0,0.01,0.0,0.01
 Nobunaga no Yabou DS,DS,2006,Strategy,Tecmo Koei,0.0,0.0,0.01,0.0,0.01
@@ -6041,7 +6041,7 @@ Casper,GBA,2002,Adventure,Microids,0.01,0.0,0.0,0.0,0.01
 Hakuoki: Reimeiroku DS,DS,2012,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
 Who Wants to be a Millionaire: 2nd Edition,DS,2008,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01
 Duel Love: Koisuru Otome wa Shouri no Megami,DS,2008,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
-Super Robot Monkey Team: Game Boy Advance Video Volume 1,GBA,2005,Misc,Unknown,0.01,0.0,0.0,0.0,0.01
+Super Robot Monkey Team: Game Boy Advance Video Volume 1,GBA,2005,Misc,,0.01,0.0,0.0,0.0,0.01
 Freekstyle,GBA,2003,Racing,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01
 Groovin' Blocks,Wii,2009,Puzzle,Zoo Games,0.01,0.0,0.0,0.0,0.01
 Gardening Guide: How to get Green Fingers,DS,2009,Misc,Mindscape,0.0,0.01,0.0,0.0,0.01
@@ -6106,7 +6106,7 @@ th!nk Logic Trainer,Wii,2009,Puzzle,Conspiracy Entertainment,0.01,0.0,0.0,0.0,0.
 "Tennis no Oji-Sama: Doubles no Oji-Sama - Boys, Be Glorious!",DS,2009,Sports,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01
 Uchida Yasuou Mystery: Meitantei Senken Mitsuhiko Series: Fukutoshin Renzoku Satsujin Jiken,DS,2009,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
 SoniPro,3DS,2014,Adventure,imageepoch Inc.,0.0,0.0,0.01,0.0,0.01
-Real Crimes: The Unicorn Killer,DS,2011,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.01
+Real Crimes: The Unicorn Killer,DS,2011,Puzzle,,0.0,0.01,0.0,0.0,0.01
 Aladdin Magic Racer,Wii,2011,Racing,Big Ben Interactive,0.01,0.0,0.0,0.0,0.01
 The Cages: Pro Style Batting Practice,Wii,2010,Sports,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.01
 Wade Hixton's Counter Punch,GBA,2004,Sports,"Destination Software, Inc",0.01,0.0,0.0,0.0,0.01
@@ -6114,7 +6114,7 @@ Winx Club: Saving Alfea,3DS,2014,Action,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01
 Art Academy: Home Studio,WiiU,2015,Misc,Nintendo,0.0,0.0,0.01,0.0,0.01
 Juggler DS,DS,2008,Misc,Commseed,0.0,0.0,0.01,0.0,0.01
 Katekyoo Hitman Reborn! Kindan no Yami no Delta,Wii,2008,Action,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01
-"Horse Life 4: My Horse, My Friend, My Champion",3DS,2015,Action,Unknown,0.0,0.01,0.0,0.0,0.01
+"Horse Life 4: My Horse, My Friend, My Champion",3DS,2015,Action,,0.0,0.01,0.0,0.0,0.01
 Razor Freestyle Scooter,GBA,2001,Sports,Ubisoft,0.01,0.0,0.0,0.0,0.01
 Outdoors Unleashed: Alaska 3D,3DS,2011,Sports,Mastiff,0.01,0.0,0.0,0.0,0.01
 Vitamin Y,DS,2008,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
@@ -6129,7 +6129,7 @@ Dengeki Gakuen RPG: Cross of Venus Special,DS,2011,Role-Playing,ASCII Media Work
 Smart Boy's Winter Wonderland,DS,2008,Misc,UFO Interactive,0.01,0.0,0.0,0.0,0.01
 Case Closed: One Truth Prevails,Wii,2007,Adventure,Nobilis,0.0,0.0,0.01,0.0,0.01
 Bomberman,Wii,2008,Puzzle,Hudson Entertainment,0.0,0.0,0.01,0.0,0.01
-Legends of Oz: Dorothy's Return,3DS,2014,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.01
+Legends of Oz: Dorothy's Return,3DS,2014,Puzzle,,0.0,0.01,0.0,0.0,0.01
 Snood 2: On Vacation,GBA,2005,Puzzle,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01
 The Land Before Time: Into the Mysterious Beyond,GBA,2006,Platform,Game Factory,0.01,0.0,0.0,0.0,0.01
 Balloon Pop 2,3DS,2012,Puzzle,UFO Interactive,0.01,0.0,0.0,0.0,0.01
@@ -6156,7 +6156,7 @@ Mini Desktop Racing,Wii,2007,Racing,Popcorn Arcade,0.01,0.0,0.0,0.0,0.01
 Yattaman Wii: BikkuriDokkiri Machine de Mou Race da Koron,Wii,2008,Racing,Takara Tomy,0.0,0.0,0.01,0.0,0.01
 Outdoors Unleashed: Africa 3D,3DS,2011,Sports,Mastiff,0.01,0.0,0.0,0.0,0.01
 PGA European Tour,N64,2000,Sports,Infogrames,0.01,0.0,0.0,0.0,0.01
-Fit & Fun,Wii,2011,Sports,Unknown,0.0,0.01,0.0,0.0,0.01
+Fit & Fun,Wii,2011,Sports,,0.0,0.01,0.0,0.0,0.01
 Planet Monsters,GBA,2001,Action,Titus,0.01,0.0,0.0,0.0,0.01
 Carmageddon 64,N64,1999,Action,Virgin Interactive,0.01,0.0,0.0,0.0,0.01
 Bust-A-Move 3000,GC,2003,Puzzle,Ubisoft,0.01,0.0,0.0,0.0,0.01
