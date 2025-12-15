@@ -4,7 +4,7 @@ import numpy as np
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-ruta = BASE_DIR / "../Datasets/F1Drivers_Dataset.csv"
+ruta = BASE_DIR / "../..//Datasets/F1Drivers_Dataset.csv"
 
 datos = pd.read_csv(ruta)
 
