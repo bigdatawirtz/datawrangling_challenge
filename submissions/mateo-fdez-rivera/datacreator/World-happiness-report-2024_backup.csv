@@ -1,0 +1,40 @@
+Country name,Regional indicator,Ladder score,upperwhisker,lowerwhisker,Log GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Dystopia + residual
+Finland,Western Europe,7.741,7.815,7.667,1.844,1.572,0.695,0.859,0.142,0.546,2.082
+Denmark,Western Europe,7.583,7.665,7.500,1.908,1.520,0.699,0.823,0.204,0.548,1.881
+Iceland,Western Europe,7.525,7.618,7.433,1.881,1.617,0.718,0.819,0.258,0.182,2.050
+Sweden,Western Europe,7.344,7.422,7.267,1.878,1.501,0.724,0.838,0.221,0.524,1.658
+Israel,Middle East and North Africa,7.341,7.405,7.277,1.803,1.513,0.740,0.641,0.153,0.193,2.298
+Netherlands,Western Europe,7.319,7.383,7.256,1.901,1.462,0.706,0.725,0.247,0.372,1.906
+Norway,Western Europe,7.302,7.389,7.215,1.952,1.517,0.704,0.835,0.224,0.484,1.586
+Luxembourg,Western Europe,7.122,7.213,7.031,2.141,1.355,0.708,0.801,0.146,0.432,1.540
+Switzerland,Western Europe,7.060,7.147,6.973,1.970,1.425,0.747,0.759,0.173,0.498,1.488
+Australia,North America and ANZ,7.057,7.141,6.973,1.854,1.461,0.692,0.756,0.225,0.323,1.745
+New Zealand,North America and ANZ,7.029,7.105,6.954,1.810,1.527,0.673,0.746,0.226,0.480,1.567
+Costa Rica,Latin America and Caribbean,6.955,7.051,6.860,1.561,1.373,0.661,0.797,0.109,0.123,2.333
+Kuwait,Middle East and North Africa,6.951,7.060,6.843,1.845,1.364,0.661,0.827,0.200,0.172,1.884
+Austria,Western Europe,6.905,6.986,6.824,1.885,1.336,0.696,0.703,0.214,0.305,1.766
+Canada,North America and ANZ,6.900,6.984,6.815,1.840,1.459,0.701,0.730,0.230,0.368,1.572
+Belgium,Western Europe,6.894,6.961,6.827,1.868,1.440,0.690,0.729,0.170,0.311,1.686
+Ireland,Western Europe,6.838,6.927,6.749,2.129,1.390,0.700,0.758,0.205,0.418,1.239
+Czechia,Central and Eastern Europe,6.822,6.903,6.741,1.783,1.511,0.638,0.787,0.177,0.068,1.858
+Lithuania,Central and Eastern Europe,6.818,6.896,6.739,1.766,1.454,0.598,0.533,0.044,0.116,2.307
+United Kingdom,Western Europe,6.749,6.833,6.665,1.822,1.326,0.672,0.713,0.267,0.351,1.598
+Slovenia,Central and Eastern Europe,6.743,6.843,6.643,1.786,1.502,0.695,0.789,0.157,0.131,1.683
+United Arab Emirates,Middle East and North Africa,6.733,6.823,6.643,1.983,1.164,0.563,0.815,0.209,0.258,1.741
+United States,North America and ANZ,6.725,6.818,6.631,1.939,1.392,0.542,0.586,0.223,0.169,1.873
+Germany,Western Europe,6.719,6.815,6.622,1.871,1.390,0.702,0.700,0.174,0.368,1.513
+Mexico,Latin America and Caribbean,6.678,6.781,6.575,1.521,1.241,0.544,0.722,0.086,0.127,2.437
+Uruguay,Latin America and Caribbean,6.611,6.696,6.527,1.596,1.431,0.592,0.775,0.106,0.220,1.891
+France,Western Europe,6.609,6.685,6.533,1.818,1.348,0.727,0.650,0.112,0.281,1.672
+Saudi Arabia,Middle East and North Africa,6.594,6.707,6.480,1.842,1.361,0.511,0.787,0.114,0.188,1.790
+Kosovo,Central and Eastern Europe,6.561,6.667,6.455,1.364,1.277,0.599,0.739,0.254,0.073,2.255
+Singapore,Southeast Asia,6.523,6.605,6.440,2.118,1.361,0.769,0.743,0.168,0.575,0.788
+Taiwan Province of China,East Asia,6.503,6.597,6.410,1.842,1.346,0.650,0.649,0.068,0.202,1.747
+Romania,Central and Eastern Europe,6.491,6.592,6.390,1.699,1.236,0.583,0.717,0.041,0.006,2.210
+El Salvador,Latin America and Caribbean,6.469,6.599,6.338,1.265,1.080,0.549,0.816,0.083,0.253,2.424
+Estonia,Central and Eastern Europe,6.448,6.524,6.371,1.752,1.527,0.657,0.805,0.166,0.401,1.138
+Poland,Central and Eastern Europe,6.442,6.513,6.370,1.738,1.417,0.639,0.600,0.081,0.175,1.791
+Spain,Western Europe,6.421,6.502,6.339,1.766,1.471,0.729,0.619,0.119,0.177,1.540
+Serbia,Central and Eastern Europe,6.411,6.522,6.300,1.538,1.391,0.585,0.663,0.200,0.101,1.932
+Chile,Latin America and Caribbean,6.360,6.448,6.273,1.616,1.369,0.673,0.651,0.117,0.075,1.858
+Panama,Latin and Caribbean,6.358,6.489,6.227,1.702,1.392,0.633,0.720,0.063,0.043,1.806
